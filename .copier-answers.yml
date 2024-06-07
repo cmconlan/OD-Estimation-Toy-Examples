@@ -1,0 +1,16 @@
+# Changes here will be overwritten by Copier
+_commit: 201a2ea
+_src_path: gh:alan-turing-institute/python-project-template
+backend: poetry
+coc: our_coc
+email: cconlan@turing.ac.uk
+full_name: Chris Conlan
+license: Apache
+min_python_version: '3.10'
+org: cmconlan
+project_name: flow-to-od
+project_short_description: A set of methods to derive an estimate for OD patterns
+    from observed edge levels flows on a road network.
+python_name: flow_to_od
+typing: no_typing
+url: https://github.com/cmconlan/OD-Estimation-Toy-Examples
